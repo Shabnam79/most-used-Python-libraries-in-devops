@@ -151,13 +151,15 @@ pytest test_file.py
 
 ## 7. **Scapy**
 
-**Use Case:** Craft network packets for testing and security validation.
+**Use Case:** *Craft network packets for testing and security validation.*
 
 ```bash
 pip install scapy
 ```
 
-**Why it's used:** Enables packet manipulation and network inspection for DevSecOps scenarios.
+**Why it's used:** *Enables packet manipulation and network inspection for DevSecOps scenarios.*
+
+**OR:** *Scapy helps you create, send, and inspect network packets. It’s like a Python-based Swiss Army knife for network engineers and security testers.*
 
 **Example:**
 ```python
