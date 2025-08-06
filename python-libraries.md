@@ -183,7 +183,8 @@ else:
 pip install apache-airflow
 ```
 
-**Why it's used:** DAG-based orchestration for ETL, automation tasks, and cross-platform data workflows.
+**Why it's used:** DAG-based orchestration for ETL, automation tasks, and cross-platform data workflows. 
+**OR:* Imagine you have a list of things that must run in a specific order every day—like running a backup, cleaning logs, and sending a report. Airflow helps automate this, makes sure they run in the right order, and alerts you if something fails.
 
 **Example:**
 ```python
